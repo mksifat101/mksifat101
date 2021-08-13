@@ -1,7 +1,6 @@
 ### Hi there, I'm Monir Hossain Sifat - Mk Sifat [mksifat101][website] 👋
 
-[![Website](https://img.shields.io/website?label=Mk SIfat.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mksifat.xyz)
-[![Facebook Follow](https://img.shields.io/twitter/follow/mksifatt4?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.facebook.com/mksifat101)
+
 
 ## I'm a Ethical Hacker, Developer & Teacher!!
 
