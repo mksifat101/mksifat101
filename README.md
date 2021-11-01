@@ -2,7 +2,7 @@
 
 
 
-## I'm a Ethical Hacker, Developer & Teacher!!
+## I'm a Full Stack Python Django Developer | WordPress Developer | Cyber Security Expert & Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
