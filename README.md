@@ -2,10 +2,10 @@
 
 
 
-## I'm a Full Stack Python Django Developer | WordPress Developer | Cyber Security Expert & Teacher!!
+## I'm a Expert Full Stack Developer | DevOps Engineer | Cyber Security Specialist & Instructor!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Software Engineer and content creators
 
 ### Connect with me:
 
