@@ -2,14 +2,14 @@
 
 
 
-## I'm a Expert Full Stack Developer | DevOps Engineer | Cyber Security Specialist & Instructor!!
+## I'm a Full Stack Developer | Python Django Developer | Cyber Security Specialist!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Software Engineer and content creators
 
 ### Connect with me:
 
-[<img align="left" alt="mksifat.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mksifat.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mksifat101 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="mksifat101 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mksifat101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -39,20 +39,17 @@
 ---
 
 
-➡️ [My YouTube Channel](https://youtube.com/konsolecoder)
+➡️ [My YouTube Channel](https://youtube.com/dotcoderbd)
 
 ---
 
 
 
-➡️ [My Blog Posts](https://mksifat.xyz)
+➡️ [My Blog Posts](https://mksifat.com)
 
 ---
 
 
-[website]: https://mksifat.xyz
-[twitter]: https://twitter.com/MkSifat3
+[website]: https://mksifat.com
 [youtube]: https://www.youtube.com/channel/UCJNW5EgHGwHROlOV2RIKHtg
-[instagram]: https://www.instagram.com/konsolecoder/
 [linkedin]: https://www.linkedin.com/in/mksifat101/
-[webdevplaylist]: https://www.youtube.com/channel/UCJNW5EgHGwHROlOV2RIKHtg
